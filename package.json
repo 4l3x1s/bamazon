@@ -1,0 +1,26 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "bamazonassignment\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4l3x1s/bamazon.git"
+  },
+  "keywords": [
+    "bamazon"
+  ],
+  "author": "ALexis\u001b[D\u001b[D\u001b[D\u001b[l",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/4l3x1s/bamazon/issues"
+  },
+  "homepage": "https://github.com/4l3x1s/bamazon#readme",
+  "dependencies": {
+    "inquirer": "^6.2.2",
+    "mysql": "^2.16.0"
+  }
+}
